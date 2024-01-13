@@ -8,7 +8,7 @@ const Hero = () => {
     <nav className='flex items-center justify-between w-full mb-10 p-2'>
       <img src={logo} alt="Logo" className='w-12 object-contain rounded-[10px]'/>
 
-      <button type='button' onClick={()=>{window.open('https:github')} } className='black_btn'>
+      <button type='button' onClick={()=>{window.open('https://github.com/darkelf2402/quick_read/tree/master')} } className='black_btn'>
         Github
       </button>
     </nav>
